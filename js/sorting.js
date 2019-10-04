@@ -1,4 +1,4 @@
-import _ from "lodash";
+import _ from "./node_modules/lodash.js";
 export const sortData = (data, key, sortMode) => {
      let sorted = _.chain(data);
     if (sortMode && key === "launch_date"){
