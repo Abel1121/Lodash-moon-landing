@@ -1,4 +1,4 @@
-var _ = require('lodash');
+import _ from 'lodash';
 const filterOutcome = document.querySelector("#filter-outcome");
 const filterOperator = document.querySelector("#filter-operator");
 
