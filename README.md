@@ -1,9 +1,11 @@
-# wtf-gulp-starter
+![Screenshots](src/assets/img/cover.png)
+# Lodash-moon-landing
 
-`npm install -g gulp-cli`
+I learned how to use lodash library for collections in moon landings datatable. Datable is taking from wikipedia i cant find good API for it.
 
-`npm install`
-
-`gulp`
-
-To publish your page using github pages use `npm run deploy`
+## Tools & Technologies I've used
+* VSC
+* CSS3
+* Javascript
+  * Lodash Library
+  * Import / Export
